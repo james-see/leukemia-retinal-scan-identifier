@@ -3,6 +3,7 @@ Simple python script to identify leukemia from retinal scans vs. healthy scans
 
 Background: https://eyewiki.aao.org/Retinal_Manifestations_of_Leukemia_-_Leukemic_Retinopathy
 
+
 run `python3 first.py`
 
 requires `opencv-python`
